@@ -22,5 +22,4 @@ daysBack = int(input("How many days ago?") or "30")
 time_fr = int(input("How many days to check?") or daysBack+1)
 
 
-
-#print(both_dates())
+print(both_dates())
